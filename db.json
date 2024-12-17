@@ -24,14 +24,14 @@
 ],
 "users":[
 	{	
-		"username": "truong",
+		"username": "han",
 		"password": "1234",
-		"fullname":"ntt"
+		"fullname":"nguyen duc han"
 	},
 	{	
-		"username": "truong2",
+		"username": "han",
 		"password": "1234",
-		"fullname":"ntt2"
+		"fullname":"duc han"
 	}
 ]
 
