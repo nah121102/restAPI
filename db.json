@@ -1,0 +1,38 @@
+{
+"post":[
+	{
+		"id":1,
+		"title":"cach an com voi muong",
+		"body":"cam bang tay thuan va muc"
+	},
+   	{
+		"id":2,
+		"title":"cach an com voi muong",
+		"body":"cam bang tay thuan va muc"
+	},
+	{
+		"id":3,
+		"title":"cach an com voi muong",
+		"body":"cam bang tay thuan va muc"
+	},
+	{
+		"id":4,
+		"title":"cach an com voi muong",
+		"body":"cam bang tay thuan va muc"
+	}
+
+],
+"users":[
+	{	
+		"username": "han",
+		"password": "nahestuamante",
+		"fullname":"nguyen duc han"
+	}
+	{	
+		"username": "han",
+		"password": "nahestuamante",
+		"fullname":"nguyen duc han"
+	},
+]
+
+}
